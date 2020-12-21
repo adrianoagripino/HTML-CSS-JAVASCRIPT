@@ -7,7 +7,7 @@
 
 
 
-![Screen 01](https://github.com/adrianoagripino/Login-Form/blob/master/screenshot_01.png)
+![](https://github.com/adrianoagripino/Login-Form/blob/master/screenshot_01.png)
 
-![Screen 02](https://github.com/adrianoagripino/Login-Form/blob/master/screenshot_02.png)
+![](https://github.com/adrianoagripino/Login-Form/blob/master/screenshot_02.png)
 
